@@ -1,6 +1,11 @@
 # 2024project
 
-This is the course project directory for Jiayang's 2024 Fall Recruitment. The project names, links, and descriptions are as follows:
+This is the course project directory for Jiayang's 2024 Fall Recruitment. 
+
+Recent update date: Aug 13
+If you have any question, please connect my email in my CV.
+
+The project names, links, and descriptions are as follows:
 
 ## Deep Learning:
 - Project 1: Using RetinaNet for 2D object recognition. 
